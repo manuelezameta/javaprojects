@@ -3,7 +3,6 @@ package org.example;
 public class Customer {
     private String name;
     private int money;
-    private int money1;
 
     public Customer(String name, int money) {
         this.name = name;
